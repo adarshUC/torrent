@@ -1,0 +1,43 @@
+{
+  "name": "Your-App-Name",
+  "description": "Description of your Telegram bot application",
+  "repository": "https://github.com/adarshUC/torrent.git",
+  "env": {
+    "BOT_TOKEN": {
+      "description": "Your Telegram Bot Token",
+      "value": ""
+    },
+    "TELEGRAM_API": {
+      "description": "Telegram API ID",
+      "value": ""
+    },
+    "TELEGRAM_HASH": {
+      "description": "Telegram API Hash",
+      "value": ""
+    },
+    "OWNER_ID": {
+      "description": "Your Telegram User ID (Owner ID)",
+      "value": ""
+    },
+    "UPSTREAM_REPO": {
+      "description": "URL of the upstream repository",
+      "value": ""
+    },
+    "UPSTREAM_BRANCH": {
+      "description": "Upstream branch (e.g., hk_wzmlx)",
+      "value": "hk_wzmlx"
+    },
+    "DATABASE_URL": {
+      "description": "Your database URL",
+      "value": ""
+    },
+    "BASE_URL": {
+      "description": "Base URL for your app",
+      "value": ""
+    },
+    "TORRENT_TIMEOUT": {
+      "description": "Torrent timeout value (e.g., 0)",
+      "value": "0"
+    }
+  }
+}
