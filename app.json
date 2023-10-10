@@ -1,5 +1,5 @@
 {
-  "name": "Your-App-Name",
+  "name": "torrent",
   "description": "Description of your Telegram bot application",
   "repository": "https://github.com/adarshUC/torrent.git",
   "env": {
